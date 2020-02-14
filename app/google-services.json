@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "524746723180",
+    "firebase_url": "https://blood-donation-a53cc.firebaseio.com",
+    "project_id": "blood-donation-a53cc",
+    "storage_bucket": "blood-donation-a53cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524746723180:android:6f22889b02f6c4523eed49",
+        "android_client_info": {
+          "package_name": "com.example.android.fooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524746723180-tbald8u93036hs7j7te6l04g5lhogbtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.fooddonation",
+            "certificate_hash": "67d7eff1d1a04c35bbfc376e2700b1006ef51fa1"
+          }
+        },
+        {
+          "client_id": "524746723180-oq9po9ff04n6om6ea7meu6a8mop96tqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEaZo6bEsTUqQxOX7NDYeJgj7Uu7EPKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524746723180-oq9po9ff04n6om6ea7meu6a8mop96tqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524746723180:android:01a6f4366c3b27bc3eed49",
+        "android_client_info": {
+          "package_name": "com.example.firebase_trial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524746723180-05q6q88fcfm8on1aro946btf7n0t8l07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_trial",
+            "certificate_hash": "67d7eff1d1a04c35bbfc376e2700b1006ef51fa1"
+          }
+        },
+        {
+          "client_id": "524746723180-oq9po9ff04n6om6ea7meu6a8mop96tqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEaZo6bEsTUqQxOX7NDYeJgj7Uu7EPKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524746723180-oq9po9ff04n6om6ea7meu6a8mop96tqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
